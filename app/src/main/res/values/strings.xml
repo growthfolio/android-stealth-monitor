@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Research Monitor</string>
+    <string name="accessibility_description">Research accessibility service for cybersecurity studies. Monitors user interactions for scientific analysis.</string>
+    <string name="service_description">Background monitoring service for research purposes</string>
+</resources>

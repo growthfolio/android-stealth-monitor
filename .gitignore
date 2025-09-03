@@ -1,0 +1,29 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# NDK
+obj/
+.externalNativeBuild/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Research data (sensitive)
+/logs/
+/data/
+*.log
+*.dat
+
+# APK files
+*.apk
+*.aab
